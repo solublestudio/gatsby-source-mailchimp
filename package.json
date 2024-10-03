@@ -14,9 +14,7 @@
     },
     "main": "gatsby-node.js",
     "files": [
-        "*.js",
-        "README.md",
-        "package.json"
+        "dist"
     ],
     "scripts": {
         "precommit": "tsc",
