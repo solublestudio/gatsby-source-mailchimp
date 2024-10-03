@@ -32,7 +32,7 @@
         "mailchimp"
     ],
     "dependencies": {
-        "axios": "^0.18.0"
+        "axios": "^1.7.7"
     },
     "devDependencies": {
         "@types/node": "^10.12.2",
