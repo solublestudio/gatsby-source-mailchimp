@@ -2,7 +2,7 @@
     "name": "@solublestudio/gatsby-source-mailchimp",
     "version": "0.0.8",
     "description": "Source plugin to fetch campaigns from Mailchimp into Gatsby",
-    "author": "Henrique Cavalieri <@hcavalieri>",
+    "author": "Soluble Studio <@solublestudio>",
     "license": "MIT",
     "bugs": {
         "url": "https://github.com/hcavalieri/gatsby-source-mailchimp/issues"
